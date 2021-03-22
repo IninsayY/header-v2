@@ -745,7 +745,6 @@ button {
 
 .content {
     min-height: 150vh;
-    background-color: greenyellow;
 }
 
 @media(max-width: 1024px){
